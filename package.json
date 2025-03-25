@@ -19,6 +19,6 @@
   },
   "type": "module",
   "bin": {
-    "ncm": "./index.js"
+    "ycm": "./index.js"
   }
 }
